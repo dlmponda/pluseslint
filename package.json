@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/**/*.js"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "Daniel Mponda",
